@@ -5,9 +5,9 @@ Built for students to track wellness and detect burnout risk early.
 
 ---
 ## 📸 **Demo Screenshot**
-![Demo](/screenshots/Screenshot%202025-07-25%20170932.png)
-![Demo](/screenshots/Screenshot%202025-07-25%20170944.png)
-![Demo](/screenshots/Screenshot%202025-07-25%20170955.png)
+![Demo](/image/demo1.png)
+![Demo](/image/demo2.png)
+![Demo](/image/demo1.png)
 
 
 ## 💡 **Problem Statement**
