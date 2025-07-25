@@ -5,10 +5,9 @@ Built for students to track wellness and detect burnout risk early.
 
 ---
 ## 📸 **Demo Screenshot**
-![Demo](/image/demo1.png)
-![Demo](/image/demo2.png)
-![Demo](/image/demo3.png)
-
+![demo](/image/demo1.png)
+![demo](/image/demo2.png)
+![demo](/image/demo3.png)
 
 ## 💡 **Problem Statement**
 Many students experience burnout due to academic pressure, irregular routines, and lack of self-care.  
@@ -97,6 +96,5 @@ streamlit run app.py
 - Add charts or explainability
 - Upgrade UI/UX
 
-### 📄 **License**
-This project is licensed under the MIT License.
+
 
